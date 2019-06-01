@@ -1,4 +1,4 @@
-# repositoryPattern
+# RepositoryPatternWithGolang
 
 This is repository pattern example implemented with golang.
 

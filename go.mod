@@ -1,6 +1,3 @@
-module github.com/trewanek/repositoryPattern
+module github.com/trewanek/RepositoryPatternWithGolang
 
-require (
-	cloud.google.com/go v0.39.0
-	google.golang.org/api v0.5.0
-)
+require github.com/trewanek/repositoryPattern v0.0.0-20190601021318-08c75296e09d

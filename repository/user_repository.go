@@ -2,7 +2,7 @@ package repository
 
 import (
 	"context"
-	"github.com/trewanek/repositoryPattern/entity"
+	"github.com/trewanek/RepositoryPatternWithGolang/entity"
 )
 
 type UserRepository interface {

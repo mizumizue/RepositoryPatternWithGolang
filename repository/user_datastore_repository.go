@@ -3,7 +3,7 @@ package repository
 import (
 	"cloud.google.com/go/datastore"
 	"context"
-	"github.com/trewanek/repositoryPattern/entity"
+	"github.com/trewanek/RepositoryPatternWithGolang/entity"
 	"google.golang.org/api/iterator"
 	"os"
 )

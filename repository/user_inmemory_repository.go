@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 	"errors"
-	"github.com/trewanek/repositoryPattern/entity"
+	"github.com/trewanek/RepositoryPatternWithGolang/entity"
 )
 
 type UserInMemoryRepository struct {
