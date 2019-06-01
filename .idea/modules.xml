@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/repositoryPattern.iml" filepath="$PROJECT_DIR$/.idea/repositoryPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/repository_pattern.iml" filepath="$PROJECT_DIR$/.idea/repository_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RepositoryPatternWithGolang.iml" filepath="$PROJECT_DIR$/.idea/RepositoryPatternWithGolang.iml" />
     </modules>
   </component>
 </project>
